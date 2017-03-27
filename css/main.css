@@ -1,0 +1,18 @@
+body{
+  background-color:pink;
+  margin: 0px;
+  height: 100%;
+  overflow: hidden;
+}
+#bodymovin{
+  background-color:none;
+  width:10%;
+  display:block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  overflow: hidden;
+  transform: translateX(-50%) translateY(-50%);
+  text-align: center;
+  opacity: 1;
+}
